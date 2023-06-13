@@ -14,6 +14,15 @@
     "categories": {
       "auth": {
         "AMP1": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "dpaon55uhle6n",
+          "type": "manual"
+        }
+      },
+      "api": {
+        "amp1": {}
       }
     }
   }
